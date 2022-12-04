@@ -11,4 +11,3 @@ string Number (int num)
 }  
 
 Console.WriteLine(Number(new Random().Next(100, 999)));
-
