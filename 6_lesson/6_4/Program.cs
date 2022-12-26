@@ -22,7 +22,7 @@ int[,] Print(int raw, int stolb)
             arr[i, j] = new Random().Next(100, 1000);
     return arr;
 }
-khait: int[,] MasClone(int[,] arr)
+int[,] MasClone(int[,] arr)
 {
     int stolb = arr.GetLength(1);
     int raw = arr.GetLength(0);
