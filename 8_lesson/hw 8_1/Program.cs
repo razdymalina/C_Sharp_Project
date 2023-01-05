@@ -53,5 +53,4 @@ int[,] arr_1 = MassNums(row, column,
 Print(arr_1);
 
 Min(arr_1);
-Print(arr_1);
 
